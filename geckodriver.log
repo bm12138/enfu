@@ -1,0 +1,57 @@
+1641885498553	geckodriver	INFO	Listening on 127.0.0.1:56633
+1641885504574	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBiv7Q5"
+1641885505388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBiv7Q5\\search.json.mozlz4", (void 0)))
+1641885507882	Marionette	INFO	Listening on port 56651
+1641885508228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641887071741	Marionette	INFO	Stopped listening on port 56651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39015B,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39014E,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 4944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te	INFO	Stopped listening on port 56730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642040103057	geckodriver	INFO	Listening on 127.0.0.1:58424
+1642040109089	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileojrbDw"
+1642040109886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileojrbDw\\search.json.mozlz4", (void 0)))
+1642040112345	Marionette	INFO	Listening on port 58446
+1642040112748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642040135248	Marionette	INFO	Stopped listening on port 58446
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ror("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileMvT8MN\\search.json.mozlz4", (void 0)))
+1642040128319	Marionette	INFO	Listening on port 58522
+1642040128430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642040133824	Marionette	INFO	Stopped listening on port 58522
+[Parent 20796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642040148213	geckodriver	INFO	Listening on 127.0.0.1:58607
+1642040154238	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileo1TWRY"
+1642040155049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileo1TWRY\\search.json.mozlz4", (void 0)))
+1642040157398	Marionette	INFO	Listening on port 58627
+1642040157899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642040680367	Marionette	INFO	Stopped listening on port 58627
+[Parent 13512, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:542
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ile at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile7Hd3Oc\\search.json.mozlz4", (void 0)))
+1642040169319	Marionette	INFO	Listening on port 58699
+1642040169600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642040174718	Marionette	INFO	Stopped listening on port 58699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
